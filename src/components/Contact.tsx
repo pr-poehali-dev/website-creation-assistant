@@ -80,7 +80,7 @@ const Contact = () => {
                     Понедельник - Воскресенье
                   </p>
                   <p className="text-lg font-semibold text-gray-900">
-                    09:00 - 21:00 МСК
+                    08:00 - 22:00 МСК
                   </p>
                   <p className="text-sm text-gray-500 mt-2">
                     Отвечаем в течение 15 минут
