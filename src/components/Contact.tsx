@@ -93,10 +93,17 @@ const Contact = () => {
                   <Icon name="Send" size={20} className="mr-2" />
                   Telegram
                 </Button>
-                <Button variant="outline" className="flex-1">
-                  <Icon name="MessageSquare" size={20} className="mr-2" />
-                  WhatsApp
-                </Button>
+                <a
+                  href="https://wa.me/79999999999?text=Здравствуйте! Хочу сделать заказ через ваш сервис. Можете помочь?"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex-1"
+                >
+                  <Button variant="outline" className="w-full">
+                    <Icon name="MessageSquare" size={20} className="mr-2" />
+                    WhatsApp
+                  </Button>
+                </a>
               </div>
             </div>
 
