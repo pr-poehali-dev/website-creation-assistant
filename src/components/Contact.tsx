@@ -94,7 +94,7 @@ const Contact = () => {
                   Telegram
                 </Button>
                 <a
-                  href="https://wa.me/79999999999?text=Здравствуйте! Хочу сделать заказ через ваш сервис. Можете помочь?"
+                  href="https://wa.me/79873847797?text=Здравствуйте! Хочу сделать заказ через ваш сервис. Можете помочь?"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex-1"
